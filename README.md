@@ -11,7 +11,7 @@ Each problem includes:
 ## Solutions by Category
 
 ### Arrays & Hashing
-- [Contains Duplicate](./Arrays&Hashing/Contains%20Duplicate/README.md) - Detect duplicate values in array
+- [Contains Duplicate](./Arrays&Hashing/contains_duplicate/README.md) - Detect duplicate values in array
 
 ## Languages Used
 - **Java** - Located in `src/main/java/` (Maven project structure)
@@ -27,7 +27,7 @@ mvn compile exec:java -Dexec.mainClass="arrays_hashing.ContainsDuplicate"
 
 ### TypeScript
 ```bash
-npm run dev "Arrays&Hashing/Contains Duplicate/contains-duplicate.ts"
+npm run dev "Arrays&Hashing/contains_duplicate/contains-duplicate.ts"
 ```
 
 ## Development Setup

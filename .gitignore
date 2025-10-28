@@ -1,0 +1,23 @@
+# Build and dependency management files
+pom.xml
+package.json
+package-lock.json
+tsconfig.json
+jsconfig.json
+
+# Dependencies
+node_modules/
+
+# Build outputs
+target/
+dist/
+*.class
+
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db

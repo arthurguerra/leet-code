@@ -12,6 +12,8 @@ Each problem includes:
 
 ### Arrays & Hashing
 - [Contains Duplicate](./Arrays&Hashing/contains_duplicate) - Detect duplicate values in array
+- [Valid Anagram](./Arrays&Hashing/valid_anagram) - Check if two strings are anagrams
+- [Two Sum](./Arrays&Hashing/two_sum) - Find two numbers that add up to target
 
 ## Languages Used
 - **Java** - Located in `src/main/java/` (Maven project structure)

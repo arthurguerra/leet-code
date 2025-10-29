@@ -1,4 +1,4 @@
-package valid_anagram;
+package arrays_hashing;
 
 import java.util.Arrays;
 
